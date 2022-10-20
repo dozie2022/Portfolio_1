@@ -1,0 +1,47 @@
+h1,h4{
+    color: #2299aa;
+}
+.navigation{
+    width: 100%;
+    position: relative;
+    min-height: 60px;
+    z-index: 1000;
+}
+#navbarNav{
+    justify-content: flex-end;
+}
+.navbar-brand{
+    color: #2299aa !important;
+    font-size: 2rem;
+}
+.navbar-light,.navbar-nav,.nav-link{
+color: #491a1a;
+font-weight: 600;
+padding-left: 1.2rem !important;
+padding-right: 1.2rem !important;
+}
+.btn{
+    background-color: #ad5f5f !important;
+    border-radius: 2rem;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    color:#ffff;
+    border: none;
+}
+.banner,#my-works{
+    background-color: #eae7dc;
+}
+hr{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.card,#Contact .card{
+    background-color:#eae7dc !important;
+    border:none !important;
+}
+#Contact a{
+text-decoration: none;
+}
+#footer{
+    
+}
